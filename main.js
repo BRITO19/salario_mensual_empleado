@@ -5,8 +5,10 @@ console.log(operacion)
 switch(operacion){
     case "1":
         promedio()
+        break;
     case "2":
         sueldo()
+        break;
 
     default:
     alert("El numero no es correcto")
